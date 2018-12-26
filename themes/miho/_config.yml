@@ -42,7 +42,7 @@ menu:
 social:
   home:
     title: MinHow
-    url: //minhow.com
+    url: //zhazhabei.com
     target: true
   github:
     title: Github
@@ -108,7 +108,18 @@ reward:
 changyan_appid: false
 changyan_appkey: false
 # 友言，输入id
-youyan_id: false
+youyan_id: true
+valine:
+    enable: true
+    appId: iJrqCbMejx63jsBXU6F78NpJ-gzGzoHsz
+    appKey: mAdSD3663XCEB7QPmWkfm65Q
+    notify: false
+    verify: false
+    avatar: mp
+    placeholder: 有事您说话
+    guest_info: nick,mail,link
+    pageSize: 10
+    lang: zh-cn
 # disqus
 disqus: false
 # gitment  https://github.com/imsun/gitment
@@ -135,4 +146,4 @@ access_counter:
   site_pv: 总访问量：
 
 # Copyright Information | 版权信息
-copyright: 2018 MinHow
+copyright: 2018 渣渣呗
